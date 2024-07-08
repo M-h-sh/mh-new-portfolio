@@ -1,10 +1,6 @@
 (function ($) {
     'use strict';
 
-    /********************************
-     ********** plugins**************
-     *******************************/
-
     $(document).ready(function () {
         // main elements
         var $body = $('body');

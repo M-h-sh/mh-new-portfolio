@@ -3838,7 +3838,6 @@ em.state-invalid {
   .main-header .navbar .navbar-brand {
     margin-left: auto;
     padding: 1.2rem 0;
-    width: 10rem;
     display: block;
   }
   .main-header .navbar .navbar-nav li {
@@ -3954,7 +3953,7 @@ em.state-invalid {
     content: "";
   }
   .main-header .navbar-toggler .navbar-toggler-icon:after {
-    top: 12px;
+    top: 16px;
   }
   .main-header .navbar-pos-search {
     margin-top: 0;
